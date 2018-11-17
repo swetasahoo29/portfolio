@@ -1,0 +1,28 @@
+#intro {
+	position: fixed;
+	padding: 50px 10px;
+	height: 400px;
+	}
+
+#text {
+	position: relative;
+	top: 602px;
+	background: white;
+	width: 100%
+}
+
+#navItems {
+	position: fixed;
+
+}
+
+.over {
+	font-family: sans-serif;
+	color: red;
+
+}
+a:link {
+	padding: 40px 10px 10px 50px;
+	display: block;
+	text-decoration: none;
+}
