@@ -1,31 +1,23 @@
 <?php 
 
-
-
-
-
-function sendMail($usermail,$message) {
+$result ="";
+if(isset($_POST['submit'])) {
   
-  $to = "hneyanish1000.ay1@gmail.com";
-  $from = $usermail;
-  $header = "From:$usermail";
-  $msg = $message;
+  $name = $_POST['name'];
+  $to = "hney1000.ay1@gmail.com";
+  $from = $_POST['email'];
+  $subject = $_POST['subject'];
+  $header = "From:".$from;
+  $msg = $_POST['message'];
    
-   $mail = mail($to, 'demo mail', $msg,$header);
+   $mail = mail($to,$subject, $msg,$header);
+   if($mail){
+     $result =  '<div id="mailMessage" class="alert alert-success"><i class="fas fa-check"></i> mail sent successfully</div>';
+   } else {
+     $result =  '<div id="mailMessage" class="alert alert-danger"><i class="fas fa-times"></i> Sorry the mail was not sent</div>';
+   }
 
-    if ($mail) {
-    	echo "mail sent";
-     } else {
-    	echo "mail not sent";
-    }
-    
+
+
 }
-
-sendMail('anishyadav20072000@gmail.com',"test message");
-
-
-
-
-
-
  ?>
