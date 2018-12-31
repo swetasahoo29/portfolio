@@ -68,15 +68,9 @@
 	border: 4px solid #000;
 }
 #Skills {
-	/* background : #696969; 
-	background: #100c08;*/
 	background:#f0f0f0;
 	padding: 20px 0px 30px 35px
 }
-/* #Skills:hover {
-	background:#d0d3dd;
-} */
-
 #Education {
 background-image: url('../img/personal-3.jpg');
 
@@ -298,53 +292,6 @@ span.bounce {
    	border-bottom-left-radius: 40%;
    	border-bottom-right-radius: 40%;
    }
-@media only screen and (max-width: 1200px) {
-    #navbar {
-		display: none;
-	}
-	#shortNav {
-		display:block;
-	}
-	hr.normal {
-		display : none;
-	}
-}
-@media only screen and (max-width :1000px) {
-    #Education {
-		background-image:url();
-		background: #fff;
-    }
-    #intro  {
-    	background: #000033;
-		width: 100%;
-    }
-    div#intro h2 {
-    	color: #fff;
-    }
-    div#footer i {
-    	color: #fff;
-    }
-    div#AboutMe {
-    	background : #fff;
-    }
-    div.col-lg-3 .more {
-    	margin-top: 30%;
-    }
-}
-@media only screen and (max-width :600px) {
-	.contacts {
-	display: none;
-	}
-}
-@media only screen and (max-width :600px) {
-	span.bounce {
-		font-size:30px;
-	}
-	p.contactTxt {
-		font-size: 20px;
-		font-weight: 300;
-	}
-}
 
 
   i.icons {
@@ -392,3 +339,57 @@ span.bounce {
   	width: 40%;
   	z-index:-1;
   }
+  @media only screen and (max-width: 1200px) {
+    #navbar {
+		display: none;
+	}
+	#shortNav {
+		display:block;
+	}
+	hr.normal {
+		display : none;
+	}
+}
+@media only screen and (max-width :1000px) {
+    #Education {
+		background-image:url();
+		background: #fff;
+    }
+    #intro  {
+    	background: #191919;
+		width: 100%;
+    }
+    div#intro h2,h1  {
+    	color: #fff;
+    }
+    div#intro .introText {
+     top:40%;
+     left: 10%;
+    }
+    div#footer i {
+    	color: #fff;
+    }
+    div#AboutMe {
+    	background : #fff;
+    }
+    div.col-lg-3 .more {
+    	margin-top: 30%;
+    }
+    div#footer p {
+    	color: #fff;
+    }
+}
+@media only screen and (max-width :600px) {
+	.contacts {
+	display: none;
+	}
+}
+@media only screen and (max-width :600px) {
+	span.bounce {
+		font-size:30px;
+	}
+	p.contactTxt {
+		font-size: 20px;
+		font-weight: 300;
+	}
+}

@@ -4,13 +4,11 @@
 	<meta charset="utf-8">
     <link rel="shortcut icon" type="image/x-icon" href="./img/favicon1.png" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <!-- <link rel="stylesheet" href="http://www.themezaa.com/html/brando/css/bootstrap.min.css"> -->
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Merriweather:300|Nanum+Gothic|Open+Sans|Thasadith|Courgette|Raleway|Marck+Script|Krub|Inconsolata|Playfair+Display+SC|Shadows+Into+Light|Federant|Josefin+Sans|Capriola|Rubik|Gloria+Hallelujah|Playfair+Display+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Indie+Flower|Merriweather:300|Nanum+Gothic|Open+Sans|Thasadith|Courgette|Raleway|Marck+Script|Krub|Inconsolata|Playfair+Display+SC|Shadows+Into+Light|Federant|Josefin+Sans|Capriola|Rubik|Gloria+Hallelujah|Playfair+Display+SC" rel="stylesheet">
 
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<link rel="stylesheet" href="./css/style.css">
-	<!-- <script src="js/map.js" charset="utf-8"></script> -->
-	<title>Portfolio</title>
+	<title>Anish</title>
 </head>
 <body >
 	<div id="shortNav" class="text-center">
@@ -55,8 +53,8 @@
 
 			<div id="intro">
 				<div class="introText">
-					<h2 style="font-family: Comic Sans MS, cursive, sans-serif">HELLO I'M</h2>
-					<h2 style="font-family: Inconsolata,cursive">ANISH KR YADAV</h2>
+					<h2 style="font-family: Comic Sans MS, cursive, sans-serif">HELLO &nbsp; I'M</h2>
+					<h1 style="font-family: Indie Flower,cursive;font-weight: 600;">ANISH KR YADAV</h1>
 				</div>
 			</div>
 
@@ -88,7 +86,7 @@
 				   unfolded and Java was  the second <br>computer language I learned. Ever since then, I have considered myself devoted to computer science. ❤</p>
 			  	<pre class="aboutText">Name:             Anish Kumar Yadav</pre>
 			  	<pre class="aboutText">Email:            hney1000.ay1@gmail.com</pre>
-			  	<pre class="aboutText">Phone             +91-7250-483-441</pre>
+			  	<pre class="aboutText">Phone:            +91-7250-483-441</pre>
 				<pre class="aboutText">Date of Birth:    20 July 2000</pre><br><br>
 				<a href="https://drive.google.com/uc?export=download&id=1FS_2DL--l-E_dLt2xmAt2YhpJ2w5yW1s"><button>DOWNLOAD RESUME</button></a>
 			  </div>
@@ -194,7 +192,7 @@
 									</div>
 									<div class="col-sm-2"></div>
 							<div class="col-sm-4 contacts">
-								<i style="color: #141414" class="far fa-envelope tag"></i><p class="tags">I.T.E.R College <br>	Bhubaneshwar Orrisa</p>
+								<i style="color: #141414" class="far fa-envelope tag"></i><p class="tags">anishyadav20072000 <br>	@gmail.com</p>
 							</div>
 								</div>
 								<br>
