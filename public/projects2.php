@@ -57,7 +57,7 @@
     </style>
 	
 <div class="row" style="margin-left: 0px;margin-right: 0px;">
-	<div class="col-lg-3  project" style="background-image: url('./img/loginapp.png');background-size: 100% 100%" 
+	<div class="col-lg-3 col-md-4  project" style="background-image: url('./img/loginapp.png');background-size: 100% 100%" 
 	 onmouseover="getElementsByTagName('a').style='display:block';getElementsByClassName('line').style='display:block'"
 	 onmouseout="getElementsByTagName('a').style='display:none';getElementsByClassName('line').style='display:none'">
               <hr class="line" >
@@ -65,7 +65,7 @@
 		 	<a href="https://github.com/anish-yadav/loginApp" ><i style="z-index: 1;" class="fab fa-github icon"></i></a>
 		 </div>
 	</div>
-        <div class="col-lg-3  project" style="background-image: url('./img/txt-to-speech.png');background-size: 100% 100%"
+        <div class="col-lg-3 col-md-4  project" style="background-image: url('./img/txt-to-speech.png');background-size: 100% 100%"
      onmouseover="getElementsByTagName('a').style='display:block';getElementsByClassName('line').style='display:block'"
      onmouseout="getElementsByTagName('a').style='display:none';getElementsByClassName('line').style='display:none'">
      <hr class="line">
@@ -73,7 +73,7 @@
             <a href="https://github.com/anish-yadav/Text-to-speech" ><i style="z-index: 1;" class="fab fa-github icon"></i></a>
          </div>
     </div>
-        <div class="col-lg-3  project" style="background-image: url('./img/todo-api.png');background-size: 100% 100%"
+        <div class="col-lg-3 col-md-4  project" style="background-image: url('./img/todo-api.png');background-size: 100% 100%"
      onmouseover="getElementsByTagName('a').style='display:block';getElementsByClassName('line').style='display:block'"
      onmouseout="getElementsByTagName('a').style='display:none';getElementsByClassName('line').style='display:none'">
               <hr class="line" >
@@ -81,7 +81,7 @@
             <a href="https://github.com/anish-yadav/Todo-API" ><i style="z-index: 1;" class="fab fa-github icon"></i></a>
          </div>
     </div>
-        <div class="col-lg-3  project" style="background-image: url('./img/password-manager.png');background-size: 100% 100%"
+        <div class="col-lg-3 col-md-4 project" style="background-image: url('./img/password-manager.png');background-size: 100% 100%"
      onmouseover="getElementsByTagName('a').style='display:block';getElementsByClassName('line').style='display:block'"
      onmouseout="getElementsByTagName('a').style='display:none';getElementsByClassName('line').style='display:none'">
               <hr class="line" style="border:1px solid #fff" >
@@ -89,7 +89,7 @@
             <a href="https://github.com/anish-yadav/password-manager" ><i style="z-index: 1;color:#fff" class="fab fa-github icon"></i></a>
          </div>
     </div>
-        <div class="col-lg-3 project" style="background-image: url('./img/portfolio.png');background-size: 100% 100%"
+        <div class="col-lg-3 col-md-4 project" style="background-image: url('./img/portfolio.png');background-size: 100% 100%"
      onmouseover="getElementsByTagName('a').style='display:block';getElementsByClassName('line').style='display:block'"
      onmouseout="getElementsByTagName('a').style='display:none';getElementsByClassName('line').style='display:none'">
               <hr class="line" >
@@ -97,7 +97,7 @@
             <a href="https://github.com/anish-yadav/portfolio" ><i style="z-index: 1;" class="fab fa-github icon"></i></a>
          </div>
     </div>
-        <div class="col-lg-3 text-center">
+        <div class="col-lg-3 col-md-4 text-center">
             <a href="https://github.com/anish-yadav?tab=repositories"> <i class="fas fa-plus-circle more"></i></a>
            
             <h3>More</h3>

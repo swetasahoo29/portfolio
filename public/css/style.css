@@ -339,7 +339,7 @@ span.bounce {
   	width: 40%;
   	z-index:-1;
   }
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 800px) {
     #navbar {
 		display: none;
 	}
@@ -350,7 +350,7 @@ span.bounce {
 		display : none;
 	}
 }
-@media only screen and (max-width :1000px) {
+@media only screen and (max-width :500px) {
     #Education {
 		background-image:url();
 		background: #fff;

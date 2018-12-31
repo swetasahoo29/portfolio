@@ -106,7 +106,7 @@
 									<span class="bounce">S</span>
 
 		   </strong></h2>
-         <?php require './skills.php';  ?>
+         <?php require './skill1.php';  ?>
 
 	     </div>
          <div class="scroll" id="Education">
