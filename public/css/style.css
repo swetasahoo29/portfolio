@@ -359,7 +359,10 @@ span.bounce {
     	background: #191919;
 		width: 100%;
     }
-    div#intro h2,h1  {
+    div#intro h2  {
+    	color: #fff;
+	}
+	div#intro h1  {
     	color: #fff;
     }
     div#intro .introText {

@@ -135,7 +135,7 @@
 									<span class="bounce">I</span>
 									<span class="bounce">O</span>
 </strong></h2>
-		   <?php require './projects.php' ?>
+		   <?php require './projects2.php' ?>
 		 </div>
   
          <div class="scroll" id="Contact">
